@@ -1,3 +1,14 @@
+# RoboFriends App
+
+RoboFriends React application based on Andrei Neagoie's Udemy course project. See <a href="https://github.com/aneagoie/robofriends">Andrei's project here</a>.
+
+## Tools used:
+
+* React & JSX
+* JavaScript
+* HTML/CSS
+* Fetch API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
